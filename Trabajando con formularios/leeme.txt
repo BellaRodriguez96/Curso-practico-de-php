@@ -1,0 +1,2 @@
+Para correr en el localhost ejecutar el siguiente comando:
+php -S localhost:8000 en la carpeta donde se encuentren los archivos .php
