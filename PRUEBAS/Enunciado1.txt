@@ -1,0 +1,10 @@
+En una escuela están almacenando los juguetes favoritos de los estudiantes de acuerdo a su edad en un 
+lugar específico de la bodega de esta forma:
+
+1- Quienes sean menores de 5 años tendrán sus espacios en la parte inferior de la bodega.
+2- Quienes tengan entre 5 y 7 años tendrán sus espacios en la parte media de la bodega.
+3- Quienes tengan más de 7 años tendrán sus espacios en la parte alta de la bodega.
+4- Quienes no tengan registro de su edad aún tendrán un espacio de almacenamiento en la bodega de al lado.
+
+Según una lista que contiene las edades de cada estudiante debes validar su edad y mostrar a través de
+un mensaje en dónde tendrán que almacenar sus juguetes.

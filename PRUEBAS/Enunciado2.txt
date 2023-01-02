@@ -1,0 +1,1 @@
+Dibuja medio árbol de Navidad usando solo asteriscos 
